@@ -1,0 +1,13 @@
+.popover_header_sub {
+    display: flex;
+    flex-direction: column;
+}
+
+.popover_header_sub > h6 {
+    font-weight: bolder;
+}
+
+.title_popover_row {
+    color: #2CA9DF;
+    font-weight: bold;
+}
